@@ -3,7 +3,7 @@
 **Student Full Name: **Abou Gbane 
 **Student Number:** ST10489481 
 **Module Code:** WEDE5020 
-**Assessment Type:** POE Part 1 
+**Assessment Type:** POE Part 2 
 Group 2 
  
 
