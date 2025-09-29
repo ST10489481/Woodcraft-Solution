@@ -126,3 +126,6 @@ Yelp.com. Built-in cabinetry / custom shelves. Yelp / Woodworking Search Result 
 Yelp.com. Modern kitchen cabinetry. Yelp / Custom Bookshelves Search Result [image online]. Available at: https://www.yelp.com (Accessed: 27 August 2025). 
 
 YouTube. Geometric or lantern-inspired wood decor accents. YouTube video thumbnail [image online]. Available at: https://www.youtube.com (Accessed: 27 August 2025). 
+
+**Change Log**
+In the updated h1 style, a few changes were made to improve how it looks and works. First, the border-bottom was given a color (#fff) because the original version didn’t have one, which could make the underline invisible depending on the background. The margin was changed from 0% to 0, since using a percentage there isn't correct. A new font, 'Merriweather', was also added to make the heading look more professional and match the theme of the website. Lastly, font-weight: 700 was added to make sure the heading stays bold when using the new font. These changes help the heading stand out more and look cleaner on the page.
